@@ -1,0 +1,12 @@
+{
+	"vkSettings": {
+		"token": "123",
+		"url": ""
+	},
+	"telegramSettings": {
+		"token": "",
+		"googleApiKey": "",
+		"adminId": "",
+		"adminChatId": ""
+	}
+}

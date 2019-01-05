@@ -1,0 +1,8 @@
+{ 
+	"MobileCut" : {
+				"publicId" : "",
+				"filePath" : "channels/MobileCut/MobileCut_public.txt", 
+				"type": "links", 
+				"times" : ["10:00", "12:30", "14:50", "17:23", "20:00", "22:30"]
+				}
+}

@@ -1,0 +1,9 @@
+{ 
+	"@Mobile_cut" : {
+				"filePath" : "channels/MobileCut/MobileCut_channel.txt",
+				"type": "links",
+				"times" : ["12:45", "16:20"],
+				"keyboard": [[{"title": "👌", "value": "like"}, {"title": "✖️", "value": "dislike"}]],
+				"loadImage": "random"
+				}
+}

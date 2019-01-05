@@ -1,0 +1,8 @@
+{
+	"@mobileCut" : {
+		"modulePath": "customModules/mobileCut/mobileGraber",
+		"contentPath" : ["channels/MobileCut/MobileCut_channel.txt"],
+		"resultPath": "channels/MobileCut/MobileCut_listResult.txt",
+		"times" : "0 03 15 * * 3"
+	}
+}
